@@ -1,5 +1,4 @@
-![TUDO Favicon](https://github.com/bmdyy/tudo/blob/main/favicon.ico?raw=true)
-
+###CLIPPED TUDO
 # TUDO (Vulnerable PHP Web-App)
 
 ## MetaData
